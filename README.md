@@ -1,298 +1,626 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Hi+%F0%9F%91%8B+I'm+Niranjana+B;ML+Engineer+%7C+Data+Scientist+%7C+AI+Builder)](https://git.io/typing-svg)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Niranjana Chandran
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=50&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;From+Raw+Data+to+Real+Impact+%F0%9F%9A%80;Deep+Learning+%E2%80%A2+NLP+%E2%80%A2+Generative+AI+%E2%80%A2+MLOps)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=950&lines=Integrated+M.Tech+Data+Science+Student;Machine+Learning+Engineer;AI+%7C+Big+Data+%7C+Cloud;Spark+%7C+Kafka+%7C+Python;Building+Scalable+AI+Applications;Welcome+to+My+GitHub!" />
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Niranjana%20Chandran&fontSize=42&fontColor=ffffff"/>
 
-<!-- Visitor Counter + Social Badges -->
-![Visitor Count](https://komarev.com/ghpvc/?username=your-github&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niranjanachandran10@gmail.com)
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=nira1012&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/followers/nira1012?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
+
+</p>
 
 </div>
 
 ---
 
-<!-- About Me — Glassmorphism style via HTML table -->
-<div align="center">
+# 💫 About Me
 
-## `> whoami`
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-</div>
+🎓 Integrated M.Tech Computer Science (Data Science)
+
+🏫 Vellore Institute of Technology
+
+💼 Data Analytics Intern @ 8Queens Software Technologies
+
+💡 Passionate about
+
+- Artificial Intelligence
+- Machine Learning
+- Data Analytics
+- Big Data Engineering
+- Cloud Computing
+- Full Stack Development
+
+🌱 Currently Learning
+
+- Apache Spark
+- Kafka
+- AWS
+- Azure
+- Generative AI
+- LLM Applications
+
+🎯 Career Goal
+
+Become an AI Engineer building scalable intelligent systems.
+
+---
+
+# ⚡ Tech Stack
+
+## 👨‍💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=r"/>
+
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+</p>
+
+---
+
+## ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+</p>
+
+---
+
+## 🤖 AI / ML
+
+✔ Machine Learning
+
+✔ Deep Learning
+
+✔ TensorFlow
+
+✔ CNN
+
+✔ Scikit-Learn
+
+✔ Pandas
+
+✔ NumPy
+
+✔ Matplotlib
+
+---
+
+## ☁ Big Data
+
+✔ Apache Spark
+
+✔ Spark Streaming
+
+✔ Kafka
+
+✔ MLlib
+
+---
+
+## 🛠 Tools
+
+Git
+
+GitHub
+
+Power BI
+
+Tableau
+
+VS Code
+
+Jupyter Notebook
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nira1012&show_icons=true&theme=tokyonight"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nira1012&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nira1012&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy Wall
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nira1012&theme=algolia&row=2&column=4"/>
+
+</p>
+
+---
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 📈 Real-Time Distributed Stock Prediction
+
+⚡ Apache Spark
+
+⚡ Spark Streaming
+
+⚡ Apache Kafka
+
+⚡ MLlib
+
+⚡ Technical Indicators
+
+⚡ Real-Time Analytics
+
+**Tech Stack**
+
+Python • Spark • Kafka • MLlib • Matplotlib
+
+</td>
+
+<td width="50%">
+
+## 🍃 AI-Based Mango Leaf Disease Detection
+
+🧠 TensorFlow
+
+🧠 CNN
+
+🧠 OpenCV
+
+🧠 Image Processing
+
+🧠 Deep Learning
+
+**Accuracy:** 91%
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📉 AI Financial Crisis Detector
+
+📊 Machine Learning
+
+📊 Time Series Forecasting
+
+📊 SQL
+
+📊 Python
+
+📊 Economic Indicators
+
+**Features**
+
+✔ GDP
+
+✔ Inflation
+
+✔ Market Volatility
+
+</td>
+
+<td width="50%">
+
+## 🏃 Human Activity Recognition
+
+📱 Smartphone Sensors
+
+📱 Random Forest
+
+📱 Support Vector Machine
+
+📱 Feature Engineering
+
+📱 Signal Processing
+
+**Accuracy:** 88%
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💼 Professional Experience
+
+## 💻 Data Analytics Intern
+
+### 🏢 8Queens Software Technologies Pvt. Ltd.
+
+📍 Chennai
+
+### Responsibilities
+
+✔ Data Cleaning
+
+✔ Python Automation
+
+✔ Pandas
+
+✔ Power BI Dashboards
+
+✔ KPI Reporting
+
+✔ Business Analytics
+
+✔ Data Visualization
+
+✔ Reporting Automation
+
+---
+
+# 🎓 Education
+
+## 🎓 Vellore Institute of Technology
+
+**Integrated M.Tech**
+
+Computer Science
+
+Specialization in Data Science
+
+---
+
+# 📜 Certifications
+
+🏅 Microsoft AI Skills Challenge
+
+🏅 Google Cloud Generative AI
+
+🏅 Machine Learning
+
+🏅 Data Analytics
+
+🏅 AI Fundamentals
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nira1012&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌟 Achievements
+
+⭐ Data Analytics Internship
+
+⭐ Multiple AI Projects
+
+⭐ Machine Learning Models
+
+⭐ Big Data Applications
+
+⭐ ReactJS Applications
+
+⭐ Power BI Dashboards
+
+⭐ TensorFlow Projects
+
+---
+
+# 📚 Currently Learning
+
+```text
+███████████████░░░░░ 75%
+
+Generative AI
+
+████████████████░░░░ 80%
+
+Apache Spark
+
+█████████████░░░░░░░ 70%
+
+Kafka
+
+█████████████████░░░ 85%
+
+Machine Learning
+```
+
+---
+
+# 💻 Coding Journey
 
 ```python
-class NiranjanaB:
+class Niranjana:
+
     def __init__(self):
-        self.name         = "Niranjana B"
-        self.location     = "Chennai, India 🇮🇳"
-        self.education    = "Integrated M.Tech — CS (Data Science) @ VIT University (2022–2027)"
-        self.focus        = ["Machine Learning", "NLP", "Generative AI", "MLOps", "Data Engineering"]
-        self.stack        = ["Python", "TensorFlow", "FastAPI", "React", "Spark", "Kafka", "AWS", "Azure"]
-        self.languages    = ["English 🇬🇧", "Tamil 🇮🇳", "Hindi", "German (Elementary) 🇩🇪"]
-        self.open_to      = "Internships · Research Collaborations · Entry-Level ML Roles"
 
-    def current_mission(self):
-        return "Turning messy, real-world data into systems that think, adapt, and scale."
+        self.role = "Data Science Student"
+
+        self.languages = [
+            "Python",
+            "Java",
+            "JavaScript",
+            "SQL",
+            "R"
+        ]
+
+        self.ml = [
+            "TensorFlow",
+            "Scikit Learn",
+            "CNN",
+            "Pandas",
+            "NumPy"
+        ]
+
+        self.bigdata = [
+            "Spark",
+            "Kafka",
+            "MLlib"
+        ]
+
+        self.goal = "Become an AI Engineer 🚀"
+
+    def never_stop_learning(self):
+        return True
 ```
 
 ---
 
-<div align="center">
+# 💬 Quote
 
-## `> skill_tree --visualize`
+> *"The best way to predict the future is to build it."*
 
-</div>
+---
+# 🌐 Connect With Me
 
-<!-- Skills Grid -->
-<table align="center">
-<tr>
-<td valign="top" width="33%">
+<p align="center">
 
-### 🐍 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<a href="https://www.linkedin.com/in/niranjana-chandran10/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</td>
-<td valign="top" width="33%">
+<a href="mailto:niranjanachandran10@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### 🤖 AI / ML / DL
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+<a href="https://github.com/nira1012">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</td>
-<td valign="top" width="33%">
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-### 📊 Data Engineering & Big Data
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-### 📈 Visualization & BI
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
-<div align="center">
+# 📊 Profile Summary
 
-## `> stats --live`
+<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A78BFA&text_color=C9D1D9&ring_color=00D9FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=A78BFA&currStreakLabel=00D9FF&sideLabels=C9D1D9" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nira1012&theme=tokyonight"/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
+</p>
 
-</div>
+<p align="center">
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nira1012&theme=tokyonight"/>
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nira1012&theme=tokyonight"/>
 
-## `> trophies --all`
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-github&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nira1012&theme=tokyonight"/>
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nira1012&theme=tokyonight&utcOffset=5.5"/>
 
-<div align="center">
-
-## `> projects --featured`
-
-</div>
-
-<!-- Featured Projects as Cards -->
-<table align="center">
-<tr>
-
-<td width="50%" valign="top">
-
-### 🥭 Mango Leaf Disease Detection
-> **Deep Learning · Computer Vision · Agriculture AI**
-
-CNN-powered image classifier that detects and categorizes mango leaf diseases with high accuracy using transfer learning and OpenCV preprocessing pipelines.
-
-**Stack:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![CNN](https://img.shields.io/badge/-CNN-A78BFA?style=flat-square)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-[![View Project](https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/your-github)
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⛓️ AI + Blockchain Predictive Maintenance
-> **IoT · Blockchain · Fault Detection · Distributed AI**
-
-Decentralized AI system that predicts IoT device failures before they occur. Combines TensorFlow inference with Hyperledger Fabric for tamper-proof audit trails.
-
-**Stack:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/-Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white)
-
-[![View Project](https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/your-github)
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🗳️ Blockchain E-Voting Platform
-> **Web3 · Security · Decentralization · Smart Contracts**
-
-Tamper-proof digital voting system with cryptographic voter anonymity, decentralized storage, and real-time blockchain verification. Deployed on Hyperledger Fabric.
-
-**Stack:**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/-Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-[![View Project](https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/your-github)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔮 What's Next
-> **Generative AI · NLP · Real-Time Pipelines**
-
-Currently building: an LLM-powered RAG pipeline using LangChain + FastAPI + Kafka for real-time document Q&A, and exploring fine-tuning open-source models on domain-specific datasets.
-
-**Stack:**
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-[![Coming Soon](https://img.shields.io/badge/Coming%20Soon-A78BFA?style=for-the-badge&logo=rocket&logoColor=white)](#)
-
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
-<div align="center">
+# 🧠 Areas of Interest
 
-## `> experience --recent`
+🧠 Artificial Intelligence
 
-</div>
+📊 Data Science
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  💼  Data Analytics Intern                                          │
-│      8Queens Software Technologies Pvt. Ltd. · Chennai             │
-│      May 2025 – June 2025                                           │
-│                                                                     │
-│  ◆  End-to-end data cleaning, preprocessing & EDA with Python       │
-│  ◆  Pattern & trend discovery from structured datasets             │
-│  ◆  Built data visualization dashboards for business decisions     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+🤖 Machine Learning
+
+🖼 Computer Vision
+
+📈 Data Analytics
+
+☁ Cloud Computing
+
+⚡ Big Data
+
+🔐 Cyber Security
+
+💻 Software Engineering
+
+🌍 Open Source
 
 ---
 
+# 🎯 2026 Goals
+
+- 🚀 Crack a Software Development Internship
+- 🤖 Build production-ready AI applications
+- 📚 Master Spark & Kafka
+- ☁ Learn AWS & Azure
+- 🌟 Contribute to Open Source
+- 💼 Secure a Data Science role
+
+---
+
+# ⚡ Fun Facts
+
+- ☕ Coffee + Python = Productivity
+- 📖 I enjoy learning new AI technologies.
+- 💡 I love solving real-world problems using data.
+- 🌱 Every project teaches me something new.
+- 🚀 Always curious about emerging technologies.
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nira1012&theme=github-compact"/>
+
+</p>
+
+---
+
+# 🐍 Snake Contribution Animation
+
+> This image will appear after you add the GitHub Action.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/nira1012/nira1012/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 💙 Thanks for Visiting
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=36BCF7&center=true&width=650&lines=Thanks+for+visiting!;Happy+Coding!;Let's+Build+Amazing+Things+Together!"/>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ If you like my projects, consider giving them a star!
+
+</p>
+---
+
+# 📌 Featured Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,nodejs,mysql,postgres,tensorflow,git,github,vscode,aws,azure"/>
+
+</p>
+
+---
+
+# 📅 Weekly Development Focus
+
+| Technology | Progress |
+|------------|----------|
+| Python | ████████████ 95% |
+| SQL | ██████████ 90% |
+| React | ████████ 80% |
+| Machine Learning | █████████ 90% |
+| TensorFlow | ████████ 80% |
+| Apache Spark | ███████ 75% |
+| Apache Kafka | ██████ 70% |
+| Power BI | ████████ 85% |
+| AWS | █████ 60% |
+| Azure | █████ 60% |
+
+---
+
+# 📖 Favorite Quote
+
 <div align="center">
 
-## `> activity --contribution-graph`
-
-<!-- Snake animation on contribution graph -->
-![Snake animation](https://raw.githubusercontent.com/your-github/your-github/output/github-contribution-grid-snake-dark.svg)
-
-> ⚙️ **Setup:** Add a GitHub Actions workflow to auto-generate this snake SVG.
-> See: [Platane/snk](https://github.com/Platane/snk) for the full setup guide.
+> **"Learning never exhausts the mind. Every project is a step toward becoming a better engineer."**
 
 </div>
 
 ---
 
-<div align="center">
+# 🚀 Let's Build Something Amazing Together
 
-## `> education`
+If you're interested in collaborating on:
 
-| 🎓 Degree | 🏛️ Institution | 📅 Duration |
-|---|---|---|
-| Integrated M.Tech — CS (Specialisation: Data Science) | VIT University | 2022 – 2027 |
+- 🤖 Artificial Intelligence
+- 📊 Data Science
+- ⚡ Machine Learning
+- ☁ Cloud Computing
+- 🌐 Full-Stack Development
+- 📈 Data Analytics
 
-**Core Courses:** Data Structures & Algorithms · Machine Learning · DBMS · Data Visualization · Artificial Intelligence
-
-</div>
+Feel free to connect with me!
 
 ---
 
 <div align="center">
 
-## `> connect --open_to_work`
+## 💙 Thank You for Visiting My Profile!
 
-> 🟢 **Actively looking for:** ML Engineering Internships · Data Science Roles · AI Research Collaborations
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Keep+Learning+%F0%9F%9A%80;Keep+Building+%F0%9F%92%AA;See+You+Again!"/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Drop%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niranjanachandran10@gmail.com)
-[![GitHub](https://img.shields.io/badge/Explore%20My%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github)
+<br><br>
 
-<br/>
-
-*"Data is the new oil — I'm here to refine it."* ⚡
-
-<br/>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
 
 </div>
